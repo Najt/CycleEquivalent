@@ -1,0 +1,9 @@
+c:\users\dunag_000\documents\visual studio 2015\Projects\Utkereses\Utkereses\bin\Debug\Utkereses.exe.config
+c:\users\dunag_000\documents\visual studio 2015\Projects\Utkereses\Utkereses\bin\Debug\Utkereses.exe
+c:\users\dunag_000\documents\visual studio 2015\Projects\Utkereses\Utkereses\bin\Debug\Utkereses.pdb
+c:\users\dunag_000\documents\visual studio 2015\Projects\Utkereses\Utkereses\obj\Debug\Utkereses.csprojResolveAssemblyReference.cache
+c:\users\dunag_000\documents\visual studio 2015\Projects\Utkereses\Utkereses\obj\Debug\Utkereses.exe
+c:\users\dunag_000\documents\visual studio 2015\Projects\Utkereses\Utkereses\obj\Debug\Utkereses.pdb
+C:\Users\Gergő\OneDrive\VisualStudio\Utkereses\Utkereses\bin\Debug\Utkereses.exe.config
+C:\Users\Gergő\OneDrive\VisualStudio\Utkereses\Utkereses\obj\Debug\Utkereses.exe
+C:\Users\Gergő\OneDrive\VisualStudio\Utkereses\Utkereses\obj\Debug\Utkereses.pdb
